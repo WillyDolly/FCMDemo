@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "507495455582",
+    "firebase_url": "https://ar-memory-map.firebaseio.com",
+    "project_id": "ar-memory-map",
+    "storage_bucket": "ar-memory-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507495455582:android:1f6c08ccbbf101e9",
+        "android_client_info": {
+          "package_name": "com.popland.pop.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507495455582-dqgno1rpfuvesmgh41317r3dpqn03ucr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.popland.pop.fcmdemo",
+            "certificate_hash": "b47060e140ba3a9c9e6f48f59ffccda4ffbd0322"
+          }
+        },
+        {
+          "client_id": "507495455582-9gd5p1tqcv7l4vh6576cdfkjk5hfmvdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhcHKpNJBqK-ssPoRopFg6SDsh0ZP-BCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507495455582-9gd5p1tqcv7l4vh6576cdfkjk5hfmvdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
